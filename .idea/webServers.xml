@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82c60a34-432c-4842-bb56-411ba297162e" name="mint">
+        <fileTransfer accessType="SFTP" host="192.168.2.200" port="22" sshConfigId="ed32d828-a3d1-47e9-9c0d-58e7a5437348" sshConfig="mint-root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

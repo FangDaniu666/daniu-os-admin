@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="175feb25-a19b-472c-bc96-c8ec4fcf79e8" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eUlbbHtc1EDQdZ4aaDMgQgrhYR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Docker 镜像.executor": "Run",
+    "Docker.daniu-os-admin.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "D:/Workspace/curr-workspace/common-frontend-template-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "project.structure.last.edited": "SDK 位置",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "ts.external.directory.path": "D:\\IDE\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "typescript.add.unambiguous.imports.on.the.fly": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\webstorm-workspace\daniu-os-admin\src\views\upload" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="daniu-os-admin" type="docker-deploy" factoryName="docker-image" singleton="false" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="nginx:latest" />
+          <option name="containerName" value="daniu-os-admin" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="80" />
+                <option name="hostPort" value="3200" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="volumeBindings">
+            <list>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/usr/share/nginx/html" />
+                <option name="hostPath" value="/home/fangdaniu/docker/daniu-os-admin/temp/html" />
+              </DockerVolumeBindingImpl>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/var/log/nginx" />
+                <option name="hostPath" value="/home/fangdaniu/docker/daniu-os-admin/temp/log" />
+              </DockerVolumeBindingImpl>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/etc/nginx/conf.d" />
+                <option name="hostPath" value="/home/fangdaniu/docker/daniu-os-admin/temp/conf.d" />
+              </DockerVolumeBindingImpl>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/etc/nginx/nginx.conf" />
+                <option name="hostPath" value="/home/fangdaniu/docker/daniu-os-admin/temp/conf/nginx.conf" />
+              </DockerVolumeBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.daniu-os-admin" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.dev" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Docker.daniu-os-admin" />
+        <item itemvalue="Docker.daniu-os-admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="175feb25-a19b-472c-bc96-c8ec4fcf79e8" name="更改" comment="" />
+      <created>1711967109759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711967109759</updated>
+      <workItem from="1711967111263" duration="6976000" />
+      <workItem from="1712134205281" duration="651000" />
+      <workItem from="1712150019770" duration="1121000" />
+      <workItem from="1712153114751" duration="1508000" />
+      <workItem from="1712390505234" duration="5898000" />
+      <workItem from="1712474126921" duration="17816000" />
+      <workItem from="1712638739048" duration="1092000" />
+      <workItem from="1712668483856" duration="5408000" />
+      <workItem from="1712724873846" duration="666000" />
+      <workItem from="1712737865564" duration="1149000" />
+      <workItem from="1712741237352" duration="2268000" />
+      <workItem from="1712743529226" duration="3285000" />
+      <workItem from="1712896099674" duration="23000" />
+      <workItem from="1713012808639" duration="2426000" />
+      <workItem from="1713060539049" duration="1365000" />
+      <workItem from="1713061918630" duration="1746000" />
+      <workItem from="1713067879044" duration="172000" />
+      <workItem from="1713068062348" duration="598000" />
+      <workItem from="1713071978244" duration="254000" />
+      <workItem from="1713072241069" duration="299000" />
+      <workItem from="1713072768316" duration="53000" />
+      <workItem from="1713073064371" duration="12000" />
+      <workItem from="1713080399229" duration="61000" />
+      <workItem from="1713080489425" duration="249000" />
+      <workItem from="1713080755872" duration="98000" />
+      <workItem from="1713083774686" duration="67000" />
+      <workItem from="1713084262246" duration="485000" />
+      <workItem from="1713084770691" duration="268000" />
+      <workItem from="1713085395789" duration="2326000" />
+      <workItem from="1713089454149" duration="373000" />
+      <workItem from="1713089837664" duration="1267000" />
+      <workItem from="1713156738194" duration="168000" />
+      <workItem from="1713156915503" duration="227000" />
+      <workItem from="1713244291728" duration="41000" />
+      <workItem from="1713274610608" duration="51000" />
+      <workItem from="1713274667027" duration="7000" />
+      <workItem from="1713274680959" duration="42000" />
+      <workItem from="1713274728555" duration="105000" />
+      <workItem from="1713330647495" duration="500000" />
+      <workItem from="1713331157661" duration="335000" />
+      <workItem from="1713331502048" duration="284000" />
+      <workItem from="1713331794276" duration="140000" />
+      <workItem from="1713342655640" duration="749000" />
+      <workItem from="1713350927332" duration="209000" />
+      <workItem from="1713352199854" duration="49000" />
+      <workItem from="1713494058660" duration="9111000" />
+      <workItem from="1713878198523" duration="262000" />
+      <workItem from="1714187674905" duration="124000" />
+      <workItem from="1714187868862" duration="15000" />
+      <workItem from="1714362781700" duration="9000" />
+      <workItem from="1714571221059" duration="3000" />
+      <workItem from="1714799149955" duration="87000" />
+      <workItem from="1716608432507" duration="2721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
