@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175feb25-a19b-472c-bc96-c8ec4fcf79e8" name="更改" comment="" />
+    <list default="true" id="175feb25-a19b-472c-bc96-c8ec4fcf79e8" name="更改" comment="daniu-os-admin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -25,6 +31,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2eUlbbHtc1EDQdZ4aaDMgQgrhYR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +47,7 @@
     "WebServerToolWindowPanel.toolwindow.show.date": "false",
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "last_opened_file_path": "D:/Workspace/curr-workspace/common-frontend-template-master",
+    "last_opened_file_path": "D:/Workspace/webstorm-workspace/daniu-os",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,10 +56,11 @@
     "nodejs_package_manager_path": "pnpm",
     "npm.build.executor": "Run",
     "npm.dev.executor": "Run",
+    "npm.serve.executor": "Run",
     "project.structure.last.edited": "SDK 位置",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "ts.external.directory.path": "D:\\IDE\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "typescript.add.unambiguous.imports.on.the.fly": "true",
     "vue.rearranger.settings.migration": "true"
@@ -68,7 +76,7 @@
       <recent name="D:\Workspace\webstorm-workspace\daniu-os-admin\src\views\upload" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.build">
     <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
       <deployment type="docker-image">
         <settings />
@@ -215,11 +223,37 @@
       <workItem from="1714362781700" duration="9000" />
       <workItem from="1714571221059" duration="3000" />
       <workItem from="1714799149955" duration="87000" />
-      <workItem from="1716608432507" duration="2721000" />
+      <workItem from="1716608432507" duration="5117000" />
+      <workItem from="1716691399582" duration="147000" />
+      <workItem from="1716984532163" duration="1261000" />
     </task>
+    <task id="LOCAL-00001" summary="daniu-os-admin">
+      <option name="closed" value="true" />
+      <created>1716611507589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716611507589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="daniu-os-admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="daniu-os-admin" />
   </component>
 </project>
