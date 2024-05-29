@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175feb25-a19b-472c-bc96-c8ec4fcf79e8" name="更改" comment="daniu-os-admin">
+    <list default="true" id="175feb25-a19b-472c-bc96-c8ec4fcf79e8" name="更改" comment="添加README.md文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="D:\Workspace\webstorm-workspace\daniu-os-admin\src\views\upload" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.dev">
     <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
       <deployment type="docker-image">
         <settings />
@@ -225,7 +224,7 @@
       <workItem from="1714799149955" duration="87000" />
       <workItem from="1716608432507" duration="5117000" />
       <workItem from="1716691399582" duration="147000" />
-      <workItem from="1716984532163" duration="1261000" />
+      <workItem from="1716984532163" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="daniu-os-admin">
       <option name="closed" value="true" />
@@ -235,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716611507589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加README.md文件">
+      <option name="closed" value="true" />
+      <created>1716985841058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716985841058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +261,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="daniu-os-admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="daniu-os-admin" />
+    <MESSAGE value="添加README.md文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加README.md文件" />
   </component>
 </project>
